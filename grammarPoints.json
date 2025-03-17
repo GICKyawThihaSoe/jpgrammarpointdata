@@ -1,0 +1,54 @@
+[
+    {
+      "category": "အကြောင်းအရင်းနဲ့ ရည်ရွယ်ချက်",
+      "items": [
+        {
+          "pattern": "~から (kara)",
+          "meaning": "ဘာလိုလဲဆိုတော့",
+          "example": "疲れたから、休みます。",
+          "romanji": "Tsukareta kara, yasumimasu.",
+          "translation": "ပင်ပန်းလို အနားယူမယ်။"
+        },
+        {
+          "pattern": "~ので (node)",
+          "meaning": "ဒါကြောင့်",
+          "example": "お金がないので、旅行に行けません。",
+          "romanji": "Okane ga nai node, ryokō ni ikemasen.",
+          "translation": "ပိုက်ဆံမရှိလို ခရီးမသွားနိုင်ဘူး။"
+        },
+        {
+          "pattern": "~ために (tame ni)",
+          "meaning": "ဘာလုပ်ဖိုလဲ",
+          "example": "健康のために、毎日運動します。",
+          "romanji": "Kenkō no tame ni, mainichi undō shimasu.",
+          "translation": "ကျန်းမာဖို နေ့တိုင်း လေ့ကျင့်ခန်းလုပ်တယ်။"
+        }
+      ]
+    },
+    {
+      "category": "ဆက်တိုက်လုပ်ဆောင်မှု",
+      "items": [
+        {
+          "pattern": "~て (te)",
+          "meaning": "ပြီးတော့",
+          "example": "本を読んで、寝ました。",
+          "romanji": "Hon o yonde, nemashita.",
+          "translation": "စာအုပ်ဖတ်ပြီး အိပ်သွားတယ်။"
+        },
+        {
+          "pattern": "~ながら (nagara)",
+          "meaning": "တစ်ချိန်တည်းမှာ",
+          "example": "テレビを見ながら、ご飯を食べます。",
+          "romanji": "Terebi o mi nagara, gohan o tabemasu.",
+          "translation": "တီဗီကြည့်ရင်း ထမင်းစားတယ်။"
+        },
+        {
+          "pattern": "~たり ~たり (tari tari)",
+          "meaning": "ဒါလည်းလုပ်၊ ဟိုလည်းလုပ်",
+          "example": "映画を見たり、ゲームをしたりします。",
+          "romanji": "Eiga o mitari, gēmu o shitari shimasu.",
+          "translation": "ရုပ်ရှင်ကြည့်လိုက်၊ ဂိမ်းဆော့လိုက် လုပ်တယ်။"
+        }
+      ]
+    }
+  ]
