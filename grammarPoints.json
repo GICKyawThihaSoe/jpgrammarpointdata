@@ -33,6 +33,20 @@
             "example": "健康のために、毎日運動します。",
             "romanji": "Kenkō no tame ni, mainichi undō shimasu.",
             "translation": "ကျန်းမာဖို နေ့တိုင်း လေ့ကျင့်ခန်းလုပ်တယ်။"
+          },
+          {
+            "pattern": "~わけだ (wake da)",
+            "meaning": "ဒါကြောင့်ပဲ",
+            "example": "雨が降ったから道が混んでいるわけだ。",
+            "romanji": "Ame ga futta kara michi ga konde iru wake da.",
+            "translation": "မိုးရွာလို့ လမ်းက ပိတ်နေတာ ဒါကြောင့်ပဲ။"
+          },
+          {
+            "pattern": "~ばかりか (bakari ka)",
+            "meaning": "ဒါတင်မကဘူး",
+            "example": "彼は優しいばかりか、頭もいいです。",
+            "romanji": "Kare wa yasashii bakari ka, atama mo ii desu.",
+            "translation": "သူက ကြင်နာတာတင်မကဘူး၊ ဉာဏ်လည်းကောင်းတယ်။"
           }
         ]
       },
@@ -59,6 +73,27 @@
             "example": "映画を見たり、ゲームをしたりします。",
             "romanji": "Eiga o mitari, gēmu o shitari shimasu.",
             "translation": "ရုပ်ရှင်ကြည့်လိုက်၊ ဂိမ်းဆော့လိုက် လုပ်တယ်။"
+          },
+          {
+            "pattern": "~ずに (zuni)",
+            "meaning": "မလုပ်ဘဲ",
+            "example": "朝ご飯を食べずに学校に行きました。",
+            "romanji": "Asagohan o tabezu ni gakkō ni ikimashita.",
+            "translation": "မနက်စာမစားဘဲ ကျောင်းသွားခဲ့တယ်။"
+          },
+          {
+            "pattern": "~てしまう (te shimau)",
+            "meaning": "လုပ်မိသွားတယ်",
+            "example": "ケーキを全部食べてしまいました。",
+            "romanji": "Kēki o zenbu tabete shimaimashita.",
+            "translation": "ကိတ်မုန့်အားလုံးကို စားမိသွားတယ်။"
+          },
+          {
+            "pattern": "~始める (hajimeru)",
+            "meaning": "စလုပ်တယ်",
+            "example": "日本語を勉強し始めました。",
+            "romanji": "Nihongo o benkyō shi hajimemashita.",
+            "translation": "ဂျပန်စာကို စလေ့လာခဲ့တယ်။"
           }
         ]
       },
@@ -85,6 +120,20 @@
             "example": "人によって、意見が違います。",
             "romanji": "Hito ni yotte, iken ga chigaimasu.",
             "translation": "လူတစ်ယောက်ချင်းပေါ်မူတည်ပြီး ထင်မြင်ချက်ကွဲတယ်။"
+          },
+          {
+            "pattern": "~に加えて (ni kuwaete)",
+            "meaning": "ထပ်ပြီး",
+            "example": "勉強に加えて、運動もします。",
+            "romanji": "Benkyō ni kuwaete, undō mo shimasu.",
+            "translation": "စာကျက်တာအပြင် လေ့ကျင့်ခန်းလည်းလုပ်တယ်။"
+          },
+          {
+            "pattern": "~一方で (ippō de)",
+            "meaning": "တစ်ဖက်မှာ",
+            "example": "彼は優しい一方で、頑固です。",
+            "romanji": "Kare wa yasashii ippō de, ganko desu.",
+            "translation": "သူက ကြင်နာတယ် တစ်ဖက်မှာ ခေါင်းမာတယ်။"
           }
         ]
       },
@@ -139,6 +188,27 @@
             "example": "家に帰ったばかりです。",
             "romanji": "Ie ni kaetta bakari desu.",
             "translation": "အိမ်ပြန်ရောက်ခါစပဲ။"
+          },
+          {
+            "pattern": "~につれて (ni tsurete)",
+            "meaning": "ဒီလိုဖြစ်တာနဲ့အမျှ",
+            "example": "年を取るにつれて、体が弱くなります。",
+            "romanji": "Toshi o toru ni tsurete, karada ga yowaku narimasu.",
+            "translation": "အသက်ကြီးလာတာနဲ့အမျှ ခန္ဓာကိုယ်အားနည်းလာတယ်။"
+          },
+          {
+            "pattern": "~たところ (ta tokoro)",
+            "meaning": "လုပ်ပြီးခါစ",
+            "example": "帰ったところです。",
+            "romanji": "Kaetta tokoro desu.",
+            "translation": "ပြန်ရောက်ခါစပဲ။"
+          },
+          {
+            "pattern": "~たび (tabi)",
+            "meaning": "အခါတိုင်း",
+            "example": "会うたび嬉しくなります。",
+            "romanji": "Au tabi ureshiku narimasu.",
+            "translation": "တွေ့တိုင်း ပျော်လာတယ်။"
           }
         ]
       },
@@ -165,6 +235,20 @@
             "example": "ドアを開けると、猫が入ってきます。",
             "romanji": "Doa o akeru to, neko ga haitte kimasu.",
             "translation": "တံခါးဖွင့်တာနဲ့ ကြောင်ဝင်လာတယ်။"
+          },
+          {
+            "pattern": "~ものの (mono no)",
+            "meaning": "ဒါပေမယ့်",
+            "example": "彼は優しいものの、少しわがままです。",
+            "romanji": "Kare wa yasashii mono no, sukoshi wagamama desu.",
+            "translation": "သူက ကြင်နာတာပေမယ့် နည်းနည်းကိုယ်ကျိုးရှာတယ်။"
+          },
+          {
+            "pattern": "~ながらも (nagara mo)",
+            "meaning": "ဒါပေမယ့်လည်း",
+            "example": "忙しいながらも、手伝います。",
+            "romanji": "Isogashii nagara mo, tetsudaimasu.",
+            "translation": "အလုပ်များနေပေမယ့်လည်း ကူညီမယ်။"
           }
         ]
       },
@@ -198,6 +282,20 @@
             "example": "雨がやみそうにありません。",
             "romanji": "Ame ga yamisō ni arimasen.",
             "translation": "မိုးရွာတာ ရပ်မယ်မထင်ဘူး။"
+          },
+          {
+            "pattern": "~べきだ (beki da)",
+            "meaning": "လုပ်သင့်တယ်",
+            "example": "もっと勉強すべきだ。",
+            "romanji": "Motto benkyō su beki da.",
+            "translation": "စာကို ပိုကျက်သင့်တယ်။"
+          },
+          {
+            "pattern": "~べきではない (beki dewa nai)",
+            "meaning": "မလုပ်သင့်ဘူး",
+            "example": "そんなことを言うべきではない。",
+            "romanji": "Sonna koto o iu beki dewa nai.",
+            "translation": "ဒီလိုမျိုး မပြောသင့်ဘူး။"
           }
         ]
       },
@@ -224,6 +322,20 @@
             "example": "彼はロボットみたいに働きます。",
             "romanji": "Kare wa robotto mitai ni hatarakimasu.",
             "translation": "သူက စက်ရုပ်တစ်လုံးလို အလုပ်လုပ်တယ်။"
+          },
+          {
+            "pattern": "~にしたら (ni shitara)",
+            "meaning": "ဒီအမြင်ကနေ",
+            "example": "私にしたら簡単です。",
+            "romanji": "Watashi ni shitara kantan desu.",
+            "translation": "ကျွန်တော့်အမြင်ကနေ လွယ်တယ်။"
+          },
+          {
+            "pattern": "~にすぎない (ni suginai)",
+            "meaning": "ဒါတင်ပဲ",
+            "example": "これは冗談にすぎません。",
+            "romanji": "Kore wa jōdan ni suginai.",
+            "translation": "ဒါက ဟာသတစ်ခုတင်ပဲ။"
           }
         ]
       },
@@ -257,6 +369,20 @@
             "example": "夏に比べて、冬は寒いです。",
             "romanji": "Natsu ni kurabete, fuyu wa samui desu.",
             "translation": "နွေရာသီနဲ့ နှိုင်းရင် ဆောင်းရာသီက အေးတယ်။"
+          },
+          {
+            "pattern": "~っぽくない (ppokunai)",
+            "meaning": "ဒီလိုမဟုတ်ဘူး",
+            "example": "彼は子供っぽくないです。",
+            "romanji": "Kare wa kodomo ppokunai desu.",
+            "translation": "သူက ကလေးဆန်မဟုတ်ဘူး။"
+          },
+          {
+            "pattern": "~風 (fū)",
+            "meaning": "ပုံစံလို",
+            "example": "和風の家に住みたいです。",
+            "romanji": "Wafū no ie ni sumitai desu.",
+            "translation": "ဂျပန်ပုံစံအိမ်မှာ နေချင်တယ်။"
           }
         ]
       },
@@ -283,6 +409,20 @@
             "example": "彼は来ないかもしれません。",
             "romanji": "Kare wa konai kamoshiremasen.",
             "translation": "သူမလာနိုင်ဘူး။"
+          },
+          {
+            "pattern": "~ようがない (yō ga nai)",
+            "meaning": "လုပ်ဖို့မရှိဘူး",
+            "example": "忘れようがない出来事です。",
+            "romanji": "Wasureyō ga nai dekigoto desu.",
+            "translation": "မေ့ဖို့မရှိတဲ့ ဖြစ်ရပ်ပဲ။"
+          },
+          {
+            "pattern": "~っこない (kko nai)",
+            "meaning": "ဘယ်လိုမှမဖြစ်နိုင်ဘူး",
+            "example": "負けっこありません。",
+            "romanji": "Makekko arimasen.",
+            "translation": "ဘယ်လိုမှမရှုံးနိုင်ဘူး။"
           }
         ]
       },
@@ -309,6 +449,13 @@
             "example": "彼は寂しがっています。",
             "romanji": "Kare wa sabishigatte imasu.",
             "translation": "သူက အထီးကျန်နေတယ်။"
+          },
+          {
+            "pattern": "~ずにはいられない (zu ni wa irarenai)",
+            "meaning": "မလုပ်ဘဲနေလို့မရဘူး",
+            "example": "笑わずにはいられません。",
+            "romanji": "Warawazu ni wa iraremasen.",
+            "translation": "မရယ်ဘဲနေလို့မရဘူး။"
           }
         ]
       },
@@ -335,6 +482,13 @@
             "example": "友達が宿題を教えてくれました。",
             "romanji": "Tomodachi ga shukudai o oshiete kuremashita.",
             "translation": "သူငယ်ချင်းက အိမ်စာကို သင်ပေးတယ်။"
+          },
+          {
+            "pattern": "~てみせる (te miseru)",
+            "meaning": "လုပ်ပြမယ်",
+            "example": "必ず成功してみせます。",
+            "romanji": "Kanarazu seikō shite misemasu.",
+            "translation": "အောင်မြင်အောင် လုပ်ပြမယ်။"
           }
         ]
       },
@@ -361,6 +515,13 @@
             "example": "この漢字が読まれます。",
             "romanji": "Kono kanji ga yomaremasu.",
             "translation": "ဒီကန်ဂျိကို ဖတ်နိုင်တယ်။"
+          },
+          {
+            "pattern": "~終わる (owaru)",
+            "meaning": "ပြီးသွားတယ်",
+            "example": "宿題をやり終えました。",
+            "romanji": "Shukudai o yari oemashita.",
+            "translation": "အိမ်စာကို ပြီးအောင်လုပ်ခဲ့တယ်။"
           }
         ]
       },
@@ -429,6 +590,27 @@
             "example": "彼が来るかどうか分かりません。",
             "romanji": "Kare ga kuru ka dō ka wakarimasen.",
             "translation": "သူလာမလာမသိဘူး။"
+          },
+          {
+            "pattern": "~ようにする (yō ni suru)",
+            "meaning": "ဒီလိုဖြစ်အောင်လုပ်တယ်",
+            "example": "毎日運動するようにします。",
+            "romanji": "Mainichi undō suru yō ni shimasu.",
+            "translation": "နေ့တိုင်းလေ့ကျင့်ခန်းလုပ်အောင် လုပ်မယ်။"
+          },
+          {
+            "pattern": "~ほうがい (hō ga ii)",
+            "meaning": "လုပ်တာ ပိုကောင်းတယ်",
+            "example": "早く寝たほうがいいです。",
+            "romanji": "Hayaku neta hō ga ii desu.",
+            "translation": "စောစောအိပ်တာ ပိုကောင်းတယ်။"
+          },
+          {
+            "pattern": "~たらどう (tara dō)",
+            "meaning": "လုပ်ကြည့်ရင် ဘယ်လိုလဲ",
+            "example": "休んだらどうですか。",
+            "romanji": "Yasundara dō desu ka.",
+            "translation": "အနားယူကြည့်ရင် ဘယ်လိုလဲ။"
           }
         ]
       },
@@ -504,6 +686,27 @@
             "example": "泣きそばでした。",
             "romanji": "Nakisoba deshita.",
             "translation": "ငိုတော့မလိုဖြစ်သွားတယ်။"
+          },
+          {
+            "pattern": "~すぎる (sugiru)",
+            "meaning": "အရမ်းများတယ်",
+            "example": "昨日は飲みすぎました。",
+            "romanji": "Kinō wa nomisugimashita.",
+            "translation": "မနေ့က အရမ်းသောက်မိသွားတယ်။"
+          },
+          {
+            "pattern": "~がち (gachi)",
+            "meaning": "မကြာခဏဖြစ်တတ်တယ်",
+            "example": "彼は遅れがちです。",
+            "romanji": "Kare wa okuregachi desu.",
+            "translation": "သူက မကြာခဏနောက်ကျတတ်တယ်။"
+          },
+          {
+            "pattern": "~そぶり (soburi)",
+            "meaning": "အမူအရာ",
+            "example": "彼は疲れたそぶりを見せました。",
+            "romanji": "Kare wa tsukareta soburi o misemashita.",
+            "translation": "သူက ပင်ပန်းတဲ့ပုံစံ ပြခဲ့တယ်။"
           }
         ]
       }
