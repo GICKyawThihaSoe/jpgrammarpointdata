@@ -61,6 +61,451 @@
             "translation": "ရုပ်ရှင်ကြည့်လိုက်၊ ဂိမ်းဆော့လိုက် လုပ်တယ်။"
           }
         ]
+      },
+      {
+        "category": "အကြောင်းအရင်းနဲ့ ဆက်စပ်မှု",
+        "items": [
+          {
+            "pattern": "~おかげで (okage de)",
+            "meaning": "ကျေးဇူးတင်ရလို့",
+            "example": "友達のおかげで、試験に合格しました。",
+            "romanji": "Tomodachi no okage de, shiken ni gōkaku shimashita.",
+            "translation": "သူငယ်ချင်းကျေးဇူးကြောင့် စာမေးပွဲအောင်တယ်။"
+          },
+          {
+            "pattern": "~せいで (sei de)",
+            "meaning": "ဒါကြောင့် (အဆိုးဘက်)",
+            "example": "雨のせいで、遅れました。",
+            "romanji": "Ame no sei de, okuremashita.",
+            "translation": "မိုးကြောင့် နောက်ကျသွားတယ်။"
+          },
+          {
+            "pattern": "~によって (ni yotte)",
+            "meaning": "ဘာကြောင့်လဲဆိုတော့",
+            "example": "人によって、意見が違います。",
+            "romanji": "Hito ni yotte, iken ga chigaimasu.",
+            "translation": "လူတစ်ယောက်ချင်းပေါ်မူတည်ပြီး ထင်မြင်ချက်ကွဲတယ်။"
+          }
+        ]
+      },
+      {
+        "category": "အချိန်နဲ့ ဆက်စပ်မှု",
+        "items": [
+          {
+            "pattern": "~たばかり (ta bakari)",
+            "meaning": "လုပ်ပြီးခါစ",
+            "example": "ご飯を食べたばかりです。",
+            "romanji": "Gohan o tabeta bakari desu.",
+            "translation": "ထမင်းစားပြီးခါစပဲ။"
+          },
+          {
+            "pattern": "~あとで (ato de)",
+            "meaning": "ပြီးရင်",
+            "example": "宿題をしたあとで、遊びます。",
+            "romanji": "Shukudai o shita ato de, asobimasu.",
+            "translation": "အိမ်စာလုပ်ပြီးရင် ဆော့မယ်။"
+          },
+          {
+            "pattern": "~うちに (uchi ni)",
+            "meaning": "ဒီအချိန်မှာ",
+            "example": "若いうちに、たくさん旅行したいです。",
+            "romanji": "Wakai uchi ni, takusan ryokō shitai desu.",
+            "translation": "ငယ်ရွယ်နေတုန်း ခရီးအများကြီးသွားချင်တယ်။"
+          },
+          {
+            "pattern": "~てから (te kara)",
+            "meaning": "လုပ်ပြီးမှ",
+            "example": "シャワーを浴びてから、出かけます。",
+            "romanji": "Shawā o abite kara, dekakemasu.",
+            "translation": "ရေချိုးပြီးမှ ထွက်မယ်။"
+          },
+          {
+            "pattern": "~前に (mae ni)",
+            "meaning": "မလုပ်ခင်",
+            "example": "学校に行く前に、朝ご飯を食べます。",
+            "romanji": "Gakkō ni iku mae ni, asagohan o tabemasu.",
+            "translation": "ကျောင်းမသွားခင် မနက်စာစားတယ်။"
+          },
+          {
+            "pattern": "~間に (aida ni)",
+            "meaning": "ဒီအချိန်အတွင်း",
+            "example": "母が買い物に行っている間に、掃除します。",
+            "romanji": "Haha ga kaimono ni itte iru aida ni, sōji shimasu.",
+            "translation": "အမေဈေးဝယ်နေတုန်း သန့်ရှင်းရေးလုပ်တယ်။"
+          },
+          {
+            "pattern": "~ばかり (bakari)",
+            "meaning": "လုပ်ပြီးခါစ",
+            "example": "家に帰ったばかりです。",
+            "romanji": "Ie ni kaetta bakari desu.",
+            "translation": "အိမ်ပြန်ရောက်ခါစပဲ။"
+          }
+        ]
+      },
+      {
+        "category": "အခြေအနေ",
+        "items": [
+          {
+            "pattern": "~たら (tara)",
+            "meaning": "ဒီလိုဆိုရင်",
+            "example": "時間があったら、遊びに行きます。",
+            "romanji": "Jikan ga attara, asobi ni ikimasu.",
+            "translation": "အချိန်ရရင် ဆော့ဖို့သွားမယ်။"
+          },
+          {
+            "pattern": "~ば (ba)",
+            "meaning": "ဒီလိုဖြစ်ရင်",
+            "example": "勉強すれば、試験に合格します。",
+            "romanji": "Benkyō sureba, shiken ni gōkaku shimasu.",
+            "translation": "စာကျက်ရင် စာမေးပွဲအောင်မယ်။"
+          },
+          {
+            "pattern": "~と (to)",
+            "meaning": "ဒီလိုလုပ်တာနဲ့",
+            "example": "ドアを開けると、猫が入ってきます。",
+            "romanji": "Doa o akeru to, neko ga haitte kimasu.",
+            "translation": "တံခါးဖွင့်တာနဲ့ ကြောင်ဝင်လာတယ်။"
+          }
+        ]
+      },
+      {
+        "category": "အခြေအနေ နဲ့ ဖြစ်နိုင်ခြေ",
+        "items": [
+          {
+            "pattern": "~なければなりません (nakereba narimasen)",
+            "meaning": "လုပ်ရမယ်",
+            "example": "毎日勉強しなければなりません。",
+            "romanji": "Mainichi benkyō shinakereba narimasen.",
+            "translation": "နေ့တိုင်း စာကျက်ရမယ်။"
+          },
+          {
+            "pattern": "~なくてもいい (nakutemo ii)",
+            "meaning": "မလုပ်လည်း ရတယ်",
+            "example": "傘を持たなくてもいいです。",
+            "romanji": "Kasa o motanakutemo ii desu.",
+            "translation": "ထီးမယူလည်း ရတယ်။"
+          },
+          {
+            "pattern": "~てはいけない (te wa ikenai)",
+            "meaning": "လုပ်လို့မရဘူး",
+            "example": "ここでタバコを吸ってはいけません。",
+            "romanji": "Koko de tabako o sutte wa ikemasen.",
+            "translation": "ဒီမှာ စီးကရက်မသောက်ရဘူး။"
+          },
+          {
+            "pattern": "~そうにない (sō ni nai)",
+            "meaning": "မဖြစ်နိုင်ဘူးလို့ထင်တယ်",
+            "example": "雨がやみそうにありません。",
+            "romanji": "Ame ga yamisō ni arimasen.",
+            "translation": "မိုးရွာတာ ရပ်မယ်မထင်ဘူး။"
+          }
+        ]
+      },
+      {
+        "category": "နှိုင်းယှဉ်ခြင်း",
+        "items": [
+          {
+            "pattern": "~より (yori)",
+            "meaning": "ဒါထက်",
+            "example": "コーヒーはお茶より美味しいです。",
+            "romanji": "Kōhī wa ocha yori oishii desu.",
+            "translation": "ကော်ဖီက လက်ဖက်ရည်ထက် အရသာရှိတယ်။"
+          },
+          {
+            "pattern": "~ほど (hodo)",
+            "meaning": "ဒီလောက်",
+            "example": "昨日は今日ほど暑くありませんでした。",
+            "romanji": "Kinō wa kyō hodo atsuku arimasen deshita.",
+            "translation": "မနေ့က ဒီနေ့လောက် မပူဘူး။"
+          },
+          {
+            "pattern": "~みたい (mitai)",
+            "meaning": "လိုပဲ",
+            "example": "彼はロボットみたいに働きます。",
+            "romanji": "Kare wa robotto mitai ni hatarakimasu.",
+            "translation": "သူက စက်ရုပ်တစ်လုံးလို အလုပ်လုပ်တယ်။"
+          }
+        ]
+      },
+      {
+        "category": "နှိုင်းယှဉ်ခြင်း နဲ့ ပုံစံ",
+        "items": [
+          {
+            "pattern": "~と同じ (to onaji)",
+            "meaning": "ဒါနဲ့တူတယ်",
+            "example": "私と同じ服を着ています。",
+            "romanji": "Watashi to onaji fuku o kite imasu.",
+            "translation": "ကျွန်တော့်နဲ့ အတူတူအဝတ်ကို ဝတ်နေတယ်။"
+          },
+          {
+            "pattern": "~のような (no yō na)",
+            "meaning": "ဒီလိုမျိုး",
+            "example": "夢のような生活です。",
+            "romanji": "Yume no yō na seikatsu desu.",
+            "translation": "အိပ်မက်လိုမျိုး ဘဝပဲ။"
+          },
+          {
+            "pattern": "~っぽい (ppoi)",
+            "meaning": "ဒီလိုခံစားရတယ်",
+            "example": "彼は子供っぽいです。",
+            "romanji": "Kare wa kodomoppoi desu.",
+            "translation": "သူက ကလေးဆန်တယ်။"
+          },
+          {
+            "pattern": "~に比べて (ni kurabete)",
+            "meaning": "ဒါနဲ့နှိုင်းရင်",
+            "example": "夏に比べて、冬は寒いです。",
+            "romanji": "Natsu ni kurabete, fuyu wa samui desu.",
+            "translation": "နွေရာသီနဲ့ နှိုင်းရင် ဆောင်းရာသီက အေးတယ်။"
+          }
+        ]
+      },
+      {
+        "category": "ဖြစ်နိုင်ခြေ နဲ့ ဆန္ဒ",
+        "items": [
+          {
+            "pattern": "~ことができる (koto ga dekiru)",
+            "meaning": "လုပ်နိုင်တယ်",
+            "example": "ピアノが弾くことができます。",
+            "romanji": "Piano ga hiku koto ga dekimasu.",
+            "translation": "စန္ဒရားတီးနိုင်တယ်။"
+          },
+          {
+            "pattern": "~たい (tai)",
+            "meaning": "လုပ်ချင်တယ်",
+            "example": "海で泳ぎたいです。",
+            "romanji": "Umi de oyogitai desu.",
+            "translation": "ပင်လယ်ထဲမှာ ရေကူးချင်တယ်။"
+          },
+          {
+            "pattern": "~かもしれない (kamoshirenai)",
+            "meaning": "ဖြစ်နိုင်တယ်",
+            "example": "彼は来ないかもしれません。",
+            "romanji": "Kare wa konai kamoshiremasen.",
+            "translation": "သူမလာနိုင်ဘူး။"
+          }
+        ]
+      },
+      {
+        "category": "ဆန္ဒ နဲ့ ခံစားချက်",
+        "items": [
+          {
+            "pattern": "~たがる (tagaru)",
+            "meaning": "လုပ်ချင်နေတယ် (တခြားသူ)",
+            "example": "子供が公園に行きたがっています。",
+            "romanji": "Kodomo ga kōen ni ikitagatte imasu.",
+            "translation": "ကလေးက ပန်းခြံကို သွားချင်နေတယ်။"
+          },
+          {
+            "pattern": "~てほしい (te hoshii)",
+            "meaning": "လုပ်ပေးစေချင်တယ်",
+            "example": "早く来てほしいです。",
+            "romanji": "Hayaku kite hoshii desu.",
+            "translation": "စောစောလာပေးစေချင်တယ်။"
+          },
+          {
+            "pattern": "~がる (garu)",
+            "meaning": "ဒီလိုခံစားနေတယ် (တခြားသူ)",
+            "example": "彼は寂しがっています。",
+            "romanji": "Kare wa sabishigatte imasu.",
+            "translation": "သူက အထီးကျန်နေတယ်။"
+          }
+        ]
+      },
+      {
+        "category": "Passive နဲ့ Causative",
+        "items": [
+          {
+            "pattern": "~られる (rareru)",
+            "meaning": "ခံရတယ်",
+            "example": "犬に手を噛まれました。",
+            "romanji": "Inu ni te o kamaremashita.",
+            "translation": "လက်ကို ခွေး ကိုက်ခံရတယ်။"
+          },
+          {
+            "pattern": "~させる (saseru)",
+            "meaning": "လုပ်ခိုင်းတယ်",
+            "example": "子供にお風呂に入らせます。",
+            "romanji": "Kodomo ni ofuro ni hairasemasu.",
+            "translation": "ကလေးကို ရေချိုးခိုင်းတယ်။"
+          },
+          {
+            "pattern": "~てくれる (te kureru)",
+            "meaning": "လုပ်ပေးတယ်",
+            "example": "友達が宿題を教えてくれました。",
+            "romanji": "Tomodachi ga shukudai o oshiete kuremashita.",
+            "translation": "သူငယ်ချင်းက အိမ်စာကို သင်ပေးတယ်။"
+          }
+        ]
+      },
+      {
+        "category": "Passive, Causative နဲ့ အကူပုံစံ",
+        "items": [
+          {
+            "pattern": "~てあげる (te ageru)",
+            "meaning": "လုပ်ပေးတယ်",
+            "example": "妹に本を読んであげます。",
+            "romanji": "Imōto ni hon o yonde agemasu.",
+            "translation": "ညီမလေးကို စာအုပ်ဖတ်ပေးတယ်။"
+          },
+          {
+            "pattern": "~てもらう (te morau)",
+            "meaning": "လုပ်ပေးခံရတယ်",
+            "example": "先生に質問を教えてもらいました。",
+            "romanji": "Sensei ni shitsumon o oshiete moraimashita.",
+            "translation": "ဆရာက မေးခွန်းကို သင်ပေးခံရတယ်။"
+          },
+          {
+            "pattern": "~られる (rareru)",
+            "meaning": "ဖြစ်နိုင်တယ် (Potential)",
+            "example": "この漢字が読まれます。",
+            "romanji": "Kono kanji ga yomaremasu.",
+            "translation": "ဒီကန်ဂျိကို ဖတ်နိုင်တယ်။"
+          }
+        ]
+      },
+      {
+        "category": "အခြား အရေးကြီး ပုံစံများ",
+        "items": [
+          {
+            "pattern": "~そうです (sō desu)",
+            "meaning": "ဒီလိုလို့ကြားတယ်",
+            "example": "天気予報によると、明日晴れるそうです。",
+            "romanji": "Tenki yohō ni yoru to, ashita hareru sō desu.",
+            "translation": "မိုးလေဝသခန့်မှန်းချက်အရ မနက်ဖြန် သာယာမယ်တဲ့။"
+          },
+          {
+            "pattern": "~つもり (tsumori)",
+            "meaning": "လုပ်ဖို့ ရည်ရွယ်တယ်",
+            "example": "今年、日本語を勉強するつもりです。",
+            "romanji": "Kotoshi, nihongo o benkyō suru tsumori desu.",
+            "translation": "ဒီနှစ်မှာ ဂျပန်စာကျက်ဖို့ ရည်ရွယ်ထားတယ်။"
+          },
+          {
+            "pattern": "~はず (hazu)",
+            "meaning": "ဖြစ်သင့်တယ်",
+            "example": "彼はもう来たはずです。",
+            "romanji": "Kare wa mō kita hazu desu.",
+            "translation": "သူက အခုရောက်နေသင့်ပြီ။"
+          },
+          {
+            "pattern": "~ところ (tokoro)",
+            "meaning": "အခုလုပ်နေတာ",
+            "example": "今、本を読むところです。",
+            "romanji": "Ima, hon o yomu tokoro desu.",
+            "translation": "အခု စာအုပ်ဖတ်နေတာပဲ။"
+          },
+          {
+            "pattern": "~らしい (rashii)",
+            "meaning": "ဒီလိုလို့ထင်တယ်",
+            "example": "彼は優しい人らしいです。",
+            "romanji": "Kare wa yasashii hito rashii desu.",
+            "translation": "သူက ကြင်နာတတ်တဲ့လူထင်တယ်။"
+          },
+          {
+            "pattern": "~ても (temo)",
+            "meaning": "ဒီလိုဖြစ်နေလည်း",
+            "example": "雨が降っても、行きます。",
+            "romanji": "Ame ga futte mo, ikimasu.",
+            "translation": "မိုးရွာနေလည်း သွားမယ်။"
+          },
+          {
+            "pattern": "~なら (nara)",
+            "meaning": "ဒီလိုဆိုရင်",
+            "example": "忙しいなら、手伝います。",
+            "romanji": "Isogashii nara, tetsudaimasu.",
+            "translation": "အလုပ်များနေရင် ကူညီမယ်။"
+          },
+          {
+            "pattern": "~なんて (nante)",
+            "meaning": "ဘယ်လောက်...လဲ",
+            "example": "なんてきれいな花でしょう。",
+            "romanji": "Nante kirei na hana deshō.",
+            "translation": "ဘယ်လောက် လှတဲ့ ပန်းလဲ။"
+          },
+          {
+            "pattern": "~かどうか (ka dō ka)",
+            "meaning": "ဖြစ်မဖြစ်",
+            "example": "彼が来るかどうか分かりません。",
+            "romanji": "Kare ga kuru ka dō ka wakarimasen.",
+            "translation": "သူလာမလာမသိဘူး။"
+          }
+        ]
+      },
+      {
+        "category": "နောက်ဆုံး အပိုင်း",
+        "items": [
+          {
+            "pattern": "~をもとに (o moto ni)",
+            "meaning": "ဒါကို အခြေခံပြီး",
+            "example": "本をもとに話します。",
+            "romanji": "Hon o moto ni hanashimasu.",
+            "translation": "စာအုပ်ကို အခြေခံပြီး ပြောမယ်။"
+          },
+          {
+            "pattern": "~をめぐって (o megutte)",
+            "meaning": "ဒါနဲ့ပတ်သက်ပြီး",
+            "example": "お金をめぐって喧嘩しました。",
+            "romanji": "Okane o megutte kenka shimashita.",
+            "translation": "ပိုက်ဆံနဲ့ပတ်သက်ပြီး ရန်ဖြစ်ခဲ့တယ်။"
+          },
+          {
+            "pattern": "~わけではない (wake dewa nai)",
+            "meaning": "ဒီလိုမဟုတ်ဘူး",
+            "example": "嫌いなわけではありません。",
+            "romanji": "Kirai na wake dewa arimasen.",
+            "translation": "မုန်းတာမဟုတ်ဘူး။"
+          },
+          {
+            "pattern": "~いっぽうだ (ippō da)",
+            "meaning": "ဒီလိုဖြစ်နေတယ်",
+            "example": "忙しくなる一方です。",
+            "romanji": "Isogashiku naru ippō desu.",
+            "translation": "အလုပ်များလာနေတယ်။"
+          },
+          {
+            "pattern": "~おかげだ (okage da)",
+            "meaning": "ဒါကြောင့်ပဲ",
+            "example": "あなたのおかげだ。",
+            "romanji": "Anata no okage da.",
+            "translation": "မင်းကြောင့်ပဲ။"
+          },
+          {
+            "pattern": "~かけの (kake no)",
+            "meaning": "ဒီလိုဖြစ်နေတဲ့",
+            "example": "作りかけの料理です。",
+            "romanji": "Tsukurikake no ryōri desu.",
+            "translation": "လုပ်နေတုန်းထားတဲ့ အစားအစာပဲ။"
+          },
+          {
+            "pattern": "~きれない (kirenai)",
+            "meaning": "ဒီလိုမလုပ်နိုင်ဘူး",
+            "example": "食べ切れません。",
+            "romanji": "Tabekiremasen.",
+            "translation": "စားလို့မကုန်နိုင်ဘူး။"
+          },
+          {
+            "pattern": "~げ (ge)",
+            "meaning": "ဒီလိုခံစားရတယ်",
+            "example": "楽しげな声です。",
+            "romanji": "Tanoshige na koe desu.",
+            "translation": "ပျော်ရွှင်နေတဲ့ အသံပဲ။"
+          },
+          {
+            "pattern": "~っこ (kko)",
+            "meaning": "ဒီလူမျိုး",
+            "example": "意地悪っこですね。",
+            "romanji": "Ijiwarukko desu ne.",
+            "translation": "ဆိုးတဲ့လူပဲနော်။"
+          },
+          {
+            "pattern": "~そば (soba)",
+            "meaning": "ဒီလိုဖြစ်တော့မလို",
+            "example": "泣きそばでした。",
+            "romanji": "Nakisoba deshita.",
+            "translation": "ငိုတော့မလိုဖြစ်သွားတယ်။"
+          }
+        ]
       }
     ]
   },
