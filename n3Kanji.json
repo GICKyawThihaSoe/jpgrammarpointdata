@@ -1,0 +1,7 @@
+[
+    {"kanji": "食", "readings": ["しょく", "たべる"], "meaning": "စားသည်", "examples": [{"word": "食べる", "meaning": "စားတယ်"}]},
+    {"kanji": "見", "readings": ["み", "みる"], "meaning": "ကြည့်သည်", "examples": [{"word": "見る", "meaning": "ကြည့်တယ်"}]},
+    {"kanji": "学", "readings": ["がく", "まなぶ"], "meaning": "သင်သည်", "examples": [{"word": "学ぶ", "meaning": "သင်တယ်"}]},
+    {"kanji": "飲", "readings": ["いん", "のむ"], "meaning": "သောက်သည်", "examples": [{"word": "飲む", "meaning": "သောက်တယ်"}]},
+    {"kanji": "書", "readings": ["しょ", "かく"], "meaning": "စာအုပ် / ရေးသည်", "examples": [{"word": "書く", "meaning": "ရေးတယ်"}]}
+  ]
